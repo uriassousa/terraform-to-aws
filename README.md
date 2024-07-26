@@ -1,4 +1,4 @@
-# terraform-to-aws
+# TERRAFORM-To-AWS
 Repository for Terraform course with AWS
 
 # VPC Create - VPC.TF
