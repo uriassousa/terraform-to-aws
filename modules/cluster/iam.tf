@@ -18,7 +18,7 @@ resource "aws_iam_role" "eks_cluster_role" {
   tags = merge(
     var.tags,
     {
-      Name = "${var.project_name}-vpc"
+      Name = "${var.project_name}-cluster-role"
     }
   )
 }
